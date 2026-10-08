@@ -32,4 +32,4 @@ Don't just announce it. **Propose it.**
 
 ## The Golden Rule
 
-**If Khush approves the PR, we do the motive.**
+**If Khush approves the PR, we do the motive.  If not... do the math.**
